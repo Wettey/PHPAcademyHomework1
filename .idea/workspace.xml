@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9362b1-d166-44b9-a1c8-0a6a8be754c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gxG0lm3TjGXjSF0djw4ACNkg3P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/materialize/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9362b1-d166-44b9-a1c8-0a6a8be754c4" name="Default Changelist" comment="" />
+      <created>1599048608178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599048608178</updated>
+      <workItem from="1599048609190" duration="7998000" />
+      <workItem from="1599148932979" duration="18903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1603" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599158126921">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1603" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1599158126921" />
+    <state x="1653" y="452" key="FileChooserDialogImpl" timestamp="1599049431121">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1653" y="452" key="FileChooserDialogImpl/0.0.2560.1388@0.0.2560.1388" timestamp="1599049431121" />
+    <state x="1508" y="440" key="IDE.errors.dialog" timestamp="1599167878759">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1508" y="440" key="IDE.errors.dialog/0.0.2560.1388@0.0.2560.1388" timestamp="1599167878759" />
+    <state x="1687" y="620" key="NewPhpFileDialog" timestamp="1599051799187">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1687" y="620" key="NewPhpFileDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1599051799187" />
+    <state x="1529" y="324" key="run.anything.popup" timestamp="1599159275854">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1529" y="324" key="run.anything.popup/0.0.2560.1388@0.0.2560.1388" timestamp="1599159275854" />
+  </component>
+</project>
